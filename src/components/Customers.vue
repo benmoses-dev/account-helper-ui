@@ -1,12 +1,12 @@
 <template>
-    <div class="about">
-        <h1>This is an about page</h1>
+    <div class="customers">
+        <h1>This is the customers page</h1>
     </div>
 </template>
   
 <style>
 @media (min-width: 1024px) {
-    .about {
+    .customers {
         display: flex;
         align-items: center;
     }
